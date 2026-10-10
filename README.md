@@ -34,5 +34,7 @@ Meu objetivo é construir uma carreira em tecnologia, ganhar experiência práti
 ## Contato
 
 - GitHub: github.com/gustavohenriquemacedo210-dot
-- LinkedIn: disponível para atualização profissional
-- Email: disponível para contato profissional
+- LinkedIn: www.linkedin.com/in/
+gustavo-macedo-90a4263a4
+
+- Email: gustavohenriquemacedo210@gmail.com
